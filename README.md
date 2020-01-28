@@ -1,2 +1,2 @@
 # SunEssentials
-A very useful minecraft plugin
+Source code of a minecraft plugin

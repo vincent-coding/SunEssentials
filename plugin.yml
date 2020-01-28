@@ -1,0 +1,82 @@
+name: SunEssentialsV2
+version: 2.0
+author: VincentCoding
+main: fr.vcoding.sunessentials.Main
+
+
+commands:
+  gm:
+    description: Change your gamemode
+  bc:
+    description: Alias of broadcast
+  alert:
+    description: Alias of broadcast
+  broadcast:
+    description: Send a message to all players
+  top:
+    description: Allows to teleport to layer 255
+  mtp:
+    description: Allows you to teleport to a player
+  ptm:
+    description: Allows you to teleport a player to you
+  suicide:
+    description: Allows to kill a player
+  vanish:
+    description: Used to make a player invisible to other players
+  day:
+    description: Used to set the day
+  night:
+    description: Used to set the night
+  wrain:
+    description: Used to remove rain
+  wclear:
+    description: Used to put the rain
+  wstorm:
+    description: Used to put the storm
+  wc:
+    description: Alias of wclear
+  ws:
+    description: Alias of wstorm
+  wr:
+    description: Alias of wrain
+  fly:
+    description: Allows you to enable or disable the fly
+  health:
+    description: Allows you to heal it
+  feed:
+    description: Give all your legs back
+  hunger:
+    description: Take off your legs
+  reffect:
+    description: Remove all potions effects from a player
+  ping:
+    description: Get your ping back
+  ip:
+    description: Retrieve the server ip
+
+
+permissions:
+  sun.vanish:
+    description: Permission to use the vanish
+  sun.kill:
+    description: Permission to use commands to kill player
+  sun.tp:
+    description: Permission to allow this teleported
+  sun.bc:
+    description: Permission used to make announcements
+  sun.gm:
+    description: Permission to use the gm
+  sun.time:
+    description: Permission for time control commands
+  sun.fly:
+    description: Permission to use the fly
+  sun.health:
+    description: Permission to use the health
+  sun.feed:
+    description: Permission to use the feed
+  sun.hunger:
+    description: Permission to use the hunger
+  sun.effect:
+    description: Permission to use commands with effect
+  sun.tinycmd:
+    description: Permission for tiny commands
